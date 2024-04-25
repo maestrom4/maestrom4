@@ -10,7 +10,7 @@ I'm a dedicated IT graduate with a strong background in software development, sp
 - **Cloud**: AWS (CloudWatch, Lambda)
 
 ## 💡 Projects
-- Currently Working on the [Time management Microservices](https://github.com/maestrom4/time-management-microservices).
+- Currently Working on the [Time management Microservices](https://github.com/maestrom4/time-management-microservices) my first open-source project.
 
 
 Feel free to contact me for collaborations or if you have interesting projects in mind!
