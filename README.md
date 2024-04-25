@@ -4,7 +4,7 @@ I'm a dedicated IT graduate with a strong background in software development, sp
 
 ## 🛠️ Technical Skills
 - **Languages**: Go, JavaScript, TypeScript
-- **Frontend**: React.js
+- **Frontend**: React.js, NextJS
 - **Backend**: Node.js, Express.js, Gin framework
 - **DevOps**: Docker, Minikube, Kubernetes
 - **Cloud**: AWS (CloudWatch, Lambda)
