@@ -10,23 +10,8 @@ I'm a dedicated IT graduate with a strong background in software development, sp
 - **Cloud**: AWS (CloudWatch, Lambda)
 
 ## 💡 Projects
-- [Discuss any projects you have worked on, providing links to the repositories if possible]
+- Currently Working on the Time management Microservices.
 
-## 🌱 I’m currently learning
-- Learning new technology trends
-
-## 💼 Professional Experience
-- Software Engr.
-
-## 🎓 Education
-- Bachelor of Information Technology
-
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[maestrom4]&show_icons=true)
-
-## 📫 How to Reach Me
-- **Email**: [maestro.m4@gmail.com]
 
 Feel free to contact me for collaborations or if you have interesting projects in mind!
 
