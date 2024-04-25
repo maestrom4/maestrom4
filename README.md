@@ -26,7 +26,6 @@ I'm a dedicated IT graduate with a strong background in software development, sp
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[maestrom4]&show_icons=true)
 
 ## 📫 How to Reach Me
-- **LinkedIn**: [Danilo Jr Matias](https://www.linkedin.com/in/danilo-jr-matias-9a6325228/)
 - **Email**: [maestro.m4@gmail.com]
 
 Feel free to contact me for collaborations or if you have interesting projects in mind!
