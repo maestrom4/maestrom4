@@ -11,8 +11,7 @@ I'm a dedicated IT graduate with a strong background in software development, sp
 
 ## 💡 Projects
 - Currently Working on the [Time management Microservices](https://github.com/maestrom4/time-management-microservices) my open-source project.
-- IoT Event Handler for Industrial Automation. Schedule start is on June 2024
-
+- IoT Event Handler for Industrial Automation.
 
 Feel free to contact me for collaborations or if you have interesting projects in mind!
 
