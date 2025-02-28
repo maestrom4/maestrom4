@@ -1,36 +1,34 @@
 # Hello, I'm Dan 👋
 
-I'm a dedicated IT graduate with a strong background in software development, specializing in Golang, Node.js, and cloud technologies. With a passion for coding and infrastructure management, I bring forth innovative solutions and robust applications.
+I'm a dedicated IT graduate with a strong background in software development, specializing in Golang, Node.js, and infrastructure management. With a passion for coding and automation, I bring forth innovative solutions and robust applications.
 
 ## 🛠️ Technical Skills
-- **Languages**: Go, JavaScript, TypeScript
-- **Frontend**: React.js, NextJS
-- **Backend**: Node.js, Express.js, Gin framework
-- **DevOps**: Docker, Minikube, Kubernetes
-- **Cloud**: AWS (CloudWatch, Lambda)
+### **🚀 Programming & Development**
+- **Languages**: Go, JavaScript, TypeScript  
+- **Frontend**: React.js, Next.js  
+- **Backend**: Node.js, Express.js, Gin framework  
+
+### **⚙️ DevOps & Infrastructure**
+- **Containerization**: Docker, Podman  
+- **Orchestration**: Kubernetes, Minikube  
+- **Messaging & Streaming**: Kafka  
+- **Automation & IoT**: Node-RED  
 
 ## 💡 Projects
-- Currently Working on the [Time management Microservices](https://github.com/maestrom4/time-management-microservices) my open-source project.
-- IoT Event Handler for Industrial Automation.
+🔹 **[Time Management Microservices](https://github.com/maestrom4/time-management-microservices)** – Open-source microservices-based time management tool.  
+🔹 **IoT Event Handler for Industrial Automation** – Optimizing industrial automation with event-driven IoT solutions.  
 
-Feel free to contact me for collaborations or if you have interesting projects in mind!
+> *Check out my repositories for more projects!* 🚀
+
+## 📫 Let's Connect
+📧 **Email:** maestro.m4@gmail.com  
+🌐 **Portfolio:** [Your Website (if applicable)](https://yourwebsite.com)  
+
+## ⚡ Fun Facts
+- 🔭 **Currently exploring** Podman, Kubernetes, and Kafka for scalable applications.  
+- 🌱 **Learning more about** distributed systems and event-driven architectures.  
+- 🎯 **Looking for collaborations** on exciting **microservices, automation, and messaging projects**.  
 
 <!-- Remember to replace [maestrom4] with your actual GitHub username and [maestro.m4@gmail.com] with your contact email -->
 
 <!-- This is a comment: Update this template with your actual data -->
-
-
-<!--
-**maestrom4/maestrom4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
