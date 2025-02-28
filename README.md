@@ -1,6 +1,6 @@
 # Hello, I'm Dan 👋
 
-I'm a dedicated IT graduate with a strong background in software development, specializing in Golang, Node.js, and infrastructure management. With a passion for coding and automation, I bring forth innovative solutions and robust applications.
+With a deep passion for software development and automation, I specialize in Golang, Node.js, and infrastructure management. My commitment to innovation ensures the creation of reliable and efficient applications.
 
 ## 🛠️ Technical Skills
 ### **🚀 Programming & Development**
